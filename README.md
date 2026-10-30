@@ -17,7 +17,7 @@ Run the script using:
 ```bash
 python calculator.py
 
-Example
+# Example
 
 === Python Calculator ===
 1) Addition
@@ -29,11 +29,11 @@ Enter the first number: 10
 Enter the second number: 5
 Result: 15
 
-Project structure
+# Project structure
 
 calculator.py
 README.md
 
-Purpose
+# Purpose
 This project is part of my learning journey as a full‑stack developer.  
 I will update and improve it over time with new features.
